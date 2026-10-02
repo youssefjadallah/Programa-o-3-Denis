@@ -11,12 +11,12 @@
         <form action="/lp3_projeto/usuarios/adicionar" method="POST" class="card-form">
             <div class="form-group">
                 <label for="nome">Nome Completo:</label>
-                <input type="text" id="nome" name="nome" required class="form-control" placeholder="Ex: Aninha Linda">
+                <input type="text" id="nome" name="nome" required class="form-control" placeholder="Ex: João Silva">
             </div>
 
             <div class="form-group">
                 <label for="email">E-mail:</label>
-                <input type="email" id="email" name="email" required class="form-control" placeholder="Ex: aninhalinda@email.com">
+                <input type="email" id="email" name="email" required class="form-control" placeholder="Ex: joao@email.com">
             </div>
 
             <div class="mt-3 d-flex gap-2">

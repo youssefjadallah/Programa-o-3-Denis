@@ -3,7 +3,7 @@
 <div class="page-layout">
     <div class="content-panel text-center">
         <div class="header-action justify-content-center">
-            <h1 style="font-size: 48px; color: #eb46a1; margin: 0;">404</h1>
+            <h1 style="font-size: 48px; color: #e74c3c; margin: 0;">404</h1>
         </div>
 
         <h2>Página não encontrada</h2>
